@@ -48,8 +48,8 @@
                         <a href="#" class="btn btn-block btn-primary">
                             Entrar
                         </a>
-                        <a href="#" class="btn btn-block btn-danger">
-                            Sair
+                        <a href="?pg=inicio" class="btn btn-block btn-danger">
+                            Voltar ao site
                         </a>
                     </div>
                     <!-- /.social-auth-links -->

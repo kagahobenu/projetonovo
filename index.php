@@ -8,6 +8,12 @@ if ($pg) {
     //existe
 
     switch ($_GET['pg']) {
+        
+        case 'inicio':
+
+            include_once 'site/inicio.php';
+            break;
+        
         case 'login':
 
             include_once './painel/paginas/acesso/login.php';
